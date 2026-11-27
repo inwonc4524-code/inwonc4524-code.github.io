@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.inwonc4524_code.coinspin",
+    "sha256_cert_fingerprints": ["BE:20:ED:B3:8B:B3:54:81:68:58:49:93:D2:9B:EA:2B:30:59:50:1C:34:31:73:DB:44:F6:C7:F0:39:7A:E4:49"]
+  }
+}]
